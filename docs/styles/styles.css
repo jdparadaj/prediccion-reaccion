@@ -1,0 +1,36 @@
+.teacheable-machine {
+    position: relative;
+    width: 100%;
+    height: 400px; 
+    overflow: hidden;
+}
+
+.teacheable-machine canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+
+div#label-container {
+    z-index: 1;
+    position: absolute;
+    width: fit-content;
+    background: #00000052;
+    padding: 8px;
+    border-radius: 8px;
+    bottom: 0px;
+    right: 0;
+    margin: 5px;
+}
+
+.test-buttons{
+    display: flex;
+    justify-content:right;
+    margin-top: 10px;
+}
+
