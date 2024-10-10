@@ -1,16 +1,16 @@
 # Documento de diseño para la creación de una interacción con Teachable Machine, modelo de predicción y reacción a reconocimiento de imagen, pose o sonido:
 
-Nombre del Proyecto
+Lanzapelotas de tenis IA
 Logo de la Empresa
 Revisión: 0.0.1
 
 ## Resumen
-Descripción concisa: Descripción de una oración para presentar el proyecto.
+Descripción concisa: Lanzapelotas que con distintas poses lance la pelota mas rápido o mas suave, mas lejos o mas cerca.
 Descripción del Proyecto
-Descripción detallada: Descripción detallada del proyecto y sus objetivos.
+Descripción detallada: El lanzapelotas reacciona a las poses del drive, revés, remate, volea, para ajustar la dirección, la velocidad y la trayectoria del lanzamiento de la pelota.
 Qué lo hace único
-Razón #1: Descripción de lo que hace único al proyecto.
-Razón #2: Descripción de lo que hace único al proyecto.
+Razón #1: La velocidad y la dirección de la pelota asistida por las distintas poses sin necesidad de ajuste previo.
+Razón #2: Facilidad para practica.
 
 ### Objetivo principal de la interacción.
 Describa el propósito y sustento conceptual, comercial o estético de la propuesta.
