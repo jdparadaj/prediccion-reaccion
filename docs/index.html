@@ -7,8 +7,6 @@
     <link rel="shortcut icon" href="./favicon.png">
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js"></script>
-    <script src="./actions/my-model.js"></script>
-    <script src="./actions/upload-image.js"></script>
     <link rel="stylesheet" href="./styles/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 </head>
@@ -21,11 +19,10 @@
             <div id="label-container"></div>
         </section>
         <section class="test-buttons">
-            <button type="button" onclick="createPost('Título del post', 'Contenido del post')">Crear post</button>
+            <button type="button" onclick="accionUno()">Acción uno</button>
         </section>
     </div>
-<script>
-
-</script>
+    <script src="./actions/my-model.js"></script>
+    <script src="./actions/accionUno.js"></script>
 </body>
 </html>
