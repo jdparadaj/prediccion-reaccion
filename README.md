@@ -1,2 +1,2 @@
-# prediccoón y reacción
+# Predicción y reacción
 
